@@ -1,7 +1,7 @@
 ### Hi there, I'm Pushkar - aka [Push1413][website] 👋
 
 - 🌱 I’m currently learning kotlin
-- ⚡ Fun fact:I love Chess and Stand-Up!
+- ⚡ Fun fact:I love Chess and Stand-up comedy!
 
 ### Connect with me:
 

@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning kotlin
 - ⚡ Fun fact:I love Chess and Stand-up comedy!
 
-
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.BOpUshpA8ywj-Wbo9uxMZgHaHa%26pid%3DApi&f=1"/>
 <img align="left" alt="Kotlin" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.P7ttmpQlFmKc-tVub77URQHaFj%26pid%3DApi&f=1"/>
@@ -18,5 +17,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
 
 

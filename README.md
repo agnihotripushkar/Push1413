@@ -1,6 +1,6 @@
 ### Hi there, I'm Pushkar - aka Push1413 👋
 
-- 🌱 I’m currently learning kotlin
+- 🌱 I’m currently learning testing
 - ⚡ Fun fact:I love Chess and Stand-up comedy!
 
 ### Languages and Tools:

@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning compose
 - ⚡ Fun fact:I love Chess and Stand-up comedy!
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Push1413 &theme=radical)
+
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.BOpUshpA8ywj-Wbo9uxMZgHaHa%26pid%3DApi&f=1"/>
 <img align="left" alt="Kotlin" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.explicit.bing.net%2Fth%3Fid%3DOIP.P7ttmpQlFmKc-tVub77URQHaFj%26pid%3DApi&f=1"/>

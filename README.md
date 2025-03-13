@@ -1,7 +1,12 @@
-### Hi there, I'm Pushkar - aka Push1413 👋
+### Hi there, I'm Pushkar Agnihotri - aka Push1413 👋
 
-- 🌱 I’m currently learning compose
-- ⚡ Fun fact:I love Chess and Stand-up comedy!
+Software Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 🏦 3+ Years in AgriTech
+
+### About Me
+
+I'm committed to staying up-to-date with the latest Android development trends and best practices. My focus on clean code, well-structured architecture, and thorough testing guarantees the delivery of high-quality, scalable applications.
+
+Let's connect and build something amazing together! 🚀
 
 ### Languages and Tools:
 <img align="left" alt="Android" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.BOpUshpA8ywj-Wbo9uxMZgHaHa%26pid%3DApi&f=1"/>
@@ -19,5 +24,4 @@
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
-
 

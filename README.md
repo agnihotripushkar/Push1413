@@ -1,4 +1,4 @@
-### Hi there, I'm Pushkar Agnihotri - aka Push1413 👋
+### Hi there, I'm Pushkar Agnihotri 👋
 
 Software Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 🏦 3+ Years in AgriTech
 

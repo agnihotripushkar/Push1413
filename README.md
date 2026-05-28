@@ -2,13 +2,13 @@
 
 ### Hi there, I'm Pushkar Agnihotri 👋 
 
-**Expert Mobile Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 📱 4+ Years in Mobile Dev**
+**Expert Mobile Engineer | 🎓 MS in Computer Science @ Cal State Fullerton | 📱 4+ Years in Software Dev**
 
 ### About Me
 
-I am an **Expert in Android and iOS development**, specializing in **Kotlin Multiplatform (KMP)** for building high-performance, shared-logic applications. I am committed to staying at the forefront of mobile technology and am currently **expanding my toolkit by learning React Native**.
+I am an **Expert in Software development(Mobile, Web)**, specializing in **Kotlin Multiplatform (KMP)** for building high-performance, shared-logic applications. I am committed to staying at the forefront of AI technology. 
 
-My approach centers on clean architecture, modularization, and robust testing to deliver scalable, high-quality mobile experiences across all platforms.
+My approach centers on clean architecture, modularization, and robust testing to deliver scalable, high-quality Software experiences across all platforms.
 
 Let's connect and build something amazing together! 🚀
 [Portfolio](https://www.pushkaragnihotri.me/) • [LinkedIn](https://www.linkedin.com/in/pushkaragnihotri/)
